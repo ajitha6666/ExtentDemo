@@ -75,7 +75,11 @@ public class AppTest
 		
 		driver.get(properties.getProperty("url"));
 	}
-	
+	@Test
+	public void two()
+	{
+		
+	}
 	@AfterSuite
 	public void afterSuite()
 	{
