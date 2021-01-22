@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28790" started-at="2021-01-21T23:07:37 MST" finished-at="2021-01-21T23:08:06 MST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28790" started-at="2021-01-21T23:07:37 MST" finished-at="2021-01-21T23:08:06 MST">
+      <class name="Framework.ExtentDemo.AppTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Framework.ExtentDemo.AppTest@60285225]" name="beforeSuite" is-config="true" duration-ms="19677" started-at="2021-01-21T23:07:17 MST" finished-at="2021-01-21T23:07:37 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:Framework.ExtentDemo.AppTest@60285225]" name="launch" duration-ms="28673" started-at="2021-01-21T23:07:37 MST" finished-at="2021-01-21T23:08:06 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Framework.ExtentDemo.AppTest@60285225]" name="afterSuite" is-config="true" duration-ms="927" started-at="2021-01-21T23:08:06 MST" finished-at="2021-01-21T23:08:07 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Framework.ExtentDemo.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
