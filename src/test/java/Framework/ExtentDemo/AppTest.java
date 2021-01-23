@@ -78,7 +78,7 @@ public class AppTest
 	@Test
 	public void two()
 	{
-		System.out.println(properties.getProperty("url"));
+		System.out.println("");
 	}
 	@AfterSuite
 	public void afterSuite()
