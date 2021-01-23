@@ -78,6 +78,7 @@ public class AppTest
 	@Test
 	public void two()
 	{
+		System.out.println("three");
 		System.out.println("two");
 	}
 	@AfterSuite
