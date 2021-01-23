@@ -78,6 +78,7 @@ public class AppTest
 	@Test
 	public void two()
 	{
+		int a=10;
 		System.out.println("three");
 		System.out.println("two");
 	}
