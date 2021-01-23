@@ -78,7 +78,7 @@ public class AppTest
 	@Test
 	public void two()
 	{
-		System.out.println("");
+		System.out.println("two");
 	}
 	@AfterSuite
 	public void afterSuite()
